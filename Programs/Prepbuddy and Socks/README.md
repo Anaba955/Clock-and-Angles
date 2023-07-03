@@ -1,4 +1,4 @@
-#PrepBuddy and Socks
+# PrepBuddy and Socks
 
 PrepBuddy is getting late for college. She is looking for a matching pair of socks from a box full of socks. In the worst-case scenario, how many socks should PrepBuddy remove from her drawer until she finds a matching pair?
 
