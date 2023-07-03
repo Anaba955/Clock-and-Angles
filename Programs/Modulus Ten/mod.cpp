@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
   using namespace std;
-  //Anaba Abbas
   int main()
   {
     int N;
