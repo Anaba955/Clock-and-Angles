@@ -1,5 +1,6 @@
 #PrepBuddy and Socks
-PrepBuddy is getting late for college. She is looking for a matching pair of socks from a box full of socks. In the worst-case scenario, how many socks should PrepBuddy remove from her drawer until she finds a matching pair.
+
+PrepBuddy is getting late for college. She is looking for a matching pair of socks from a box full of socks. In the worst-case scenario, how many socks should PrepBuddy remove from her drawer until she finds a matching pair?
 
 Input format
 The first line contains the number of test cases T. Next T lines contain an integer N indicating the total pairs of socks in the drawer.
