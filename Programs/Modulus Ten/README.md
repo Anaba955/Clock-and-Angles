@@ -2,9 +2,11 @@
 PrepBuddy gave you a number x and asked you to find the remainder of x divided by 10.
 
 Input format
+
 A single integer x is provided.
 
 Output format
+
 Print a single integer representing the required output.
 
 Constraints
