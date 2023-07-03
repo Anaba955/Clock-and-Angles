@@ -1,4 +1,4 @@
-# Clock-and-Angles
+# Clock
 PrepBuddy has an analog clock which consists of two hands one for an hour and another for a minute. She wants to calculate the shorter angle formed between the hour and minute hand at any given time.
 
 Input format
