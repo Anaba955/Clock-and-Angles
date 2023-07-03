@@ -1,12 +1,2 @@
-# Clock
-PrepBuddy has an analog clock which consists of two hands one for an hour and another for a minute. She wants to calculate the shorter angle formed between the hour and minute hand at any given time.
-
-Input format
-The first line contains the number of test cases 
-T
-. 
-Each test case contains two integers 
-h
- and 
-m
- representing the time inan  hour and minute format.
+# Daily C++ Programs
+Welcome to the Daily C++ Programs repository! This repository is a collection of daily C++ programs designed to enhance your C++ skills and knowledge. Each day, a new C++ program is added, covering a wide range of topics and concepts in the C++ programming language.
