@@ -41,7 +41,7 @@ Time limit
 1
  second
 
-Example
+Example:
 Input
 2
 
