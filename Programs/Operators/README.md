@@ -22,12 +22,13 @@ Time Limit
 1 second
 
 Example
-Input
+
+Input:
 4 6
 
-Output
+Output:
 4 is smaller than 6
 
-Sample test case explanation
+Sample test case explanation:
 Since 
 4<6, print 4 is smaller than 6 
