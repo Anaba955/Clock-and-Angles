@@ -1,9 +1,14 @@
 # One Pattern
 Print in the output the exact pattern provided below
+
 1
+
 1 1
+
 1 1 1
+
 1 1 1 1
+
 1 1 1 1 1
 
 Input format
@@ -22,8 +27,13 @@ Input
 1
 
 Output
+
 1
+
 1 1
+
 1 1 1
+
 1 1 1 1
+
 1 1 1 1 1
