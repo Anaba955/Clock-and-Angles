@@ -1,4 +1,4 @@
-Sum of Digits
+# Sum of Digits
 PrepBuddy gave you a number 
 X
  and asks you to find the sum of the digits present in the number.
@@ -33,18 +33,5 @@ Output
 15
 
 Sample test case explanation
-Sum of digit 
-=
-1
-+
-0
-+
-2
-+
-3
-+
-4
-+
-5
-=
-15
+
+Sum of digit =1+0+2+3+4+5=15
